@@ -1,0 +1,2 @@
+please input int value a:
+please input int value b:

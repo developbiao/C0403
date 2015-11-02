@@ -1,0 +1,4 @@
+printf("day day up up!\n");
+printf("day day up up!\n");
+printf("day day up up!\n");
+int b = test01();
